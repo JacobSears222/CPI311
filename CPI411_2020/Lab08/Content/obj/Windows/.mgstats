@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/DepthMap.fx","C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/bin/Windows/DepthMap.xnb","EffectProcessor","CompiledEffectContent",1132,1959,0.3311329
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/Font.spritefont","C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.4707417
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/nvlobby_new_negz.png","C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/bin/Windows/nvlobby_new_negz.xnb","TextureProcessor","Texture2DContent",378490,1048661,0.1406225
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/Plane.FBX","C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.1426201
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/ProjectiveTexture.fx","C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/bin/Windows/ProjectiveTexture.xnb","EffectProcessor","CompiledEffectContent",1933,3111,0.2204115
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/torus.FBX","C:/Users/jakej/source/repos/CPI411_2020/Lab08/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",88896,53689,0.0279255

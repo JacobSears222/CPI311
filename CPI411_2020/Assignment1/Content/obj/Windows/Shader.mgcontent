@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/jakej/source/repos/CPI411_2020/Assignment1/Content/Shader.fx</SourceFile>
+  <SourceTime>2020-02-14T19:36:20.0854135-07:00</SourceTime>
+  <DestFile>C:/Users/jakej/source/repos/CPI411_2020/Assignment1/Content/bin/Windows/Shader.xnb</DestFile>
+  <DestTime>2020-02-16T20:59:15.1658035-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

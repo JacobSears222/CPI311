@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jakej/source/repos/CPI411_2020/Lab03/Content/bunny.fbx","C:/Users/jakej/source/repos/CPI411_2020/Lab03/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",3414096,1533379,0.5704806
+"C:/Users/jakej/source/repos/CPI411_2020/Lab03/Content/Diffuse.fx","C:/Users/jakej/source/repos/CPI411_2020/Lab03/Content/bin/Windows/Diffuse.xnb","EffectProcessor","CompiledEffectContent",1073,2014,0.2184106
+"C:/Users/jakej/source/repos/CPI411_2020/Lab03/Content/Font.spritefont","C:/Users/jakej/source/repos/CPI411_2020/Lab03/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.1715399

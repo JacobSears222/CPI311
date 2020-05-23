@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/Post-Complete.fx</SourceFile>
+  <SourceTime>2020-04-30T13:42:27.8899208-07:00</SourceTime>
+  <DestFile>C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/bin/Windows/Content/Post-Complete.xnb</DestFile>
+  <DestTime>2020-04-30T13:42:29.4069-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

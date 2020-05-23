@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jakej/source/repos/CPI411_2020/Lab09/Content/Checker.png","C:/Users/jakej/source/repos/CPI411_2020/Lab09/Content/bin/Windows/Checker.xnb","TextureProcessor","Texture2DContent",2833,4181,0.1564143
+"C:/Users/jakej/source/repos/CPI411_2020/Lab09/Content/Plane.FBX","C:/Users/jakej/source/repos/CPI411_2020/Lab09/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",18112,1657,0.1767674
+"C:/Users/jakej/source/repos/CPI411_2020/Lab09/Content/ShadowShader.fx","C:/Users/jakej/source/repos/CPI411_2020/Lab09/Content/bin/Windows/ShadowShader.xnb","EffectProcessor","CompiledEffectContent",3471,4718,0.4301274
+"C:/Users/jakej/source/repos/CPI411_2020/Lab09/Content/torus (4).FBX","C:/Users/jakej/source/repos/CPI411_2020/Lab09/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",65056,53689,0.0298869

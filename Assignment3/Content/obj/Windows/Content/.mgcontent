@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/art.PNG</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/BumpMaps.fx</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/BumpTest.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/crossHatch.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/Font.spritefont</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/monkey.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/nm.dds</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/nvlobby_new_negx.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/nvlobby_new_negy.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/nvlobby_new_negz.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/nvlobby_new_posx.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/nvlobby_new_posy.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/nvlobby_new_posz.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/Plane(1).FBX</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/round.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/saint.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/science.PNG</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/Skybox.fx</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/square.png</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Assignment3/Content/Torus.FBX</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

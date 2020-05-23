@@ -1,0 +1,52 @@
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\Content\bunny.xnb
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\Lab03.exe
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\Lab03.pdb
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\obj\x86\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\obj\x86\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\obj\x86\Debug\Lab03.csproj.CopyComplete
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\obj\x86\Debug\Lab03.exe
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\obj\x86\Debug\Lab03.pdb
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\Content\Diffuse.xnb
+C:\Users\jakej\source\repos\CPI411 2020\Lab03\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\Content\bunny.xnb
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\Content\Diffuse.xnb
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\Content\Font.xnb
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\Lab03.exe
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\Lab03.pdb
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\obj\x86\Debug\Lab03.csprojAssemblyReference.cache
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\obj\x86\Debug\Lab03.csproj.CoreCompileInputs.cache
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\obj\x86\Debug\Lab03.csproj.CopyComplete
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\obj\x86\Debug\Lab03.exe
+C:\Users\jakej\source\repos\CPI411_2020\Lab03\obj\x86\Debug\Lab03.pdb

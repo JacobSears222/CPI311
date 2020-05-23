@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/Couple.jpg</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/filter.png</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/Font.spritefont</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/Me2.jpg</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/Post-Complete.fx</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/Rainbow.jpg</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/RE3HQ.jpg</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/Space.jpg</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/Thor.jpg</File>
+    <File>C:/Users/jakej/OneDrive/Desktop/CPI411_2020-2/CPI411_2020/FinalProject/Content/Tree.jpg</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

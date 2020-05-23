@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/box.fbx</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bunny.fbx</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Font.spritefont</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Shader.fx</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Sphere.FBX</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Teapot.FBX</File>
+    <File>C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Torus.FBX</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

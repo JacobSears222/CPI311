@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/filter.png","C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/bin/Windows/filter.xnb","TextureProcessor","Texture2DContent",3506,2133,0.5030977
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/Honolulu.JPG","C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/bin/Windows/Honolulu.xnb","TextureProcessor","Texture2DContent",116854,5529685,0.2004651
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/Post-Complete.fx","C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/bin/Windows/Post-Complete.xnb","EffectProcessor","CompiledEffectContent",1844,1708,0.428853
+"C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/RE3HQ.jpg","C:/Users/jakej/source/repos/CPI411_2020/Lab08IP/Content/bin/Windows/RE3HQ.xnb","TextureProcessor","Texture2DContent",435395,8294485,0.7809144

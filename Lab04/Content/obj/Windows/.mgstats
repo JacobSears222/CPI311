@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/box.fbx","C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bin/Windows/box.xnb","ModelProcessor","ModelContent",15232,1501,0.3027444
+"C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bunny.fbx","C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",3414096,1533379,0.602388
+"C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Font.spritefont","C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bin/Windows/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.234454
+"C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Shader.fx","C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bin/Windows/Shader.xnb","EffectProcessor","CompiledEffectContent",4088,5582,0.2997338
+"C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Sphere.FBX","C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bin/Windows/Sphere.xnb","ModelProcessor","ModelContent",39360,24315,0.02194
+"C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Teapot.FBX","C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bin/Windows/Teapot.xnb","ModelProcessor","ModelContent",96928,97691,0.0324215
+"C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/Torus.FBX","C:/Users/jakej/source/repos/CPI411_2020/Lab04/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",65408,53689,0.0249333

@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/fire.png","C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/bin/Windows/Content/fire.xnb","TextureProcessor","Texture2DContent",146324,262229,0.1845419
+"C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/Font.spritefont","C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.5605027
+"C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/ParticleShader.fx","C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/bin/Windows/Content/ParticleShader.xnb","EffectProcessor","CompiledEffectContent",1538,2148,0.3969667
+"C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/Plane(1).FBX","C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/bin/Windows/Content/Plane.xnb","ModelProcessor","ModelContent",20768,1657,0.1838861
+"C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/smoke.png","C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/bin/Windows/Content/smoke.xnb","TextureProcessor","Texture2DContent",90978,262229,0.0229055
+"C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/Square.png","C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/bin/Windows/Content/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.1540982
+"C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/torus (4).FBX","C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/bin/Windows/Content/torus.xnb","ModelProcessor","ModelContent",65056,53689,0.293852
+"C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/water.png","C:/Users/jakej/source/repos/CPI411_2020/Assignment4/Content/bin/Windows/Content/water.xnb","TextureProcessor","Texture2DContent",58538,262229,0.0209422

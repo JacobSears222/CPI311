@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/jakej/source/repos/CPI411 2020/Lab02/Content/logo_mg.jpg","C:/Users/jakej/source/repos/CPI411 2020/Lab02/Content/bin/Windows/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.4585046
+"C:/Users/jakej/source/repos/CPI411 2020/Lab02/Content/SimplestShader.fx","C:/Users/jakej/source/repos/CPI411 2020/Lab02/Content/bin/Windows/SimplestShader.xnb","EffectProcessor","CompiledEffectContent",643,843,0.2822349

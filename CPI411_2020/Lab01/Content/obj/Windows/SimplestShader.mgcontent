@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/jakej/source/repos/CPI411 2020/Lab01/Content/SimplestShader.fx</SourceFile>
+  <SourceTime>2020-01-16T13:11:06.2217472-07:00</SourceTime>
+  <DestFile>C:/Users/jakej/source/repos/CPI411 2020/Lab01/Content/bin/Windows/SimplestShader.xnb</DestFile>
+  <DestTime>2020-01-16T13:11:11.9524749-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
